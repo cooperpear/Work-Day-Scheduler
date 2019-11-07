@@ -1,0 +1,40 @@
+
+2.need rows and colums --> going to need 
+3. input forms on j query for user input
+------>what is the best way to handle this? standard form input? use prevent default to keep from disappearing once reloaded?
+
+onclick > becomes form > click save button > store to local > output to div for record
+
+these input forms need to be able to be manipulated by jquery for date and time functions
+
+
+4. Store these inputs in localstorage only if user hits save button
+button from bootstrap?
+
+if save button clicked, run function savehour
+function savehour(){
+    window.localStorage.setItem('clicks',form input);
+preventdefault()
+
+
+5. date and time function needs to operate in jumbotron at top
+moment().format("MMM Do YY");     
+
+6. we have to work with the css parameters we are provided. some of them are defined for us, without being in the html
+7. Each "timeblock" needs to be divided into three parts
+	time of day
+	user input
+	save button -->> write to localstorage
+8. the preprovided css gives us hints as to how to structure our calander
+
+9.If hour < currenthour
+ then make form input inaccessible
+background = gray
+
+If hour > currenthour
+ then make form input accessible
+background = green
+
+If hour === currenthour
+ then display "current hour" in form box
+background = red
