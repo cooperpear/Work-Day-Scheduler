@@ -1,5 +1,5 @@
-# Note Taker
-Employee Directory is a front end React application that uses axios to make a request to an API, displays information on page using components and passable properties between components. 
+# Work Day Scheduler
+Work Day Scheduler is a moment.js demonstration. It utilizes your web browers local storage to log and save calendar events. It uses moment.js (library) for date and time functions. 
 
 ## Deployed
 https://cooperpear.github.io/Work-Day-Scheduler/
