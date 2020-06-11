@@ -19,7 +19,7 @@ Backend implementation for remote database storage.
 Cooper Pearson
 
 ## Screenshots
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Home](https://github.com/cooperpear/Work-Day-Scheduler/blob/master/screencapture-cooperpear-github-io-Work-Day-Scheduler-2020-06-11-10_21_58.png?raw=true "Home")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
